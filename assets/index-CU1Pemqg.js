@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as n,a as r,o as t}from"./index-CXlE_r8L.js";const s={};function a(c,e){return t(),n("div",null,[...e[0]||(e[0]=[r("h1",null,"Dont Add Me",-1)])])}const f=o(s,[["render",a]]);export{f as default};
