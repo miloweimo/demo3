@@ -1,1 +1,0 @@
-import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as r,a as t,o as n}from"./index-CXlE_r8L.js";const a={};function s(c,e){return n(),r("div",null,[...e[0]||(e[0]=[t("h1",null,"Teamplate",-1)])])}const m=o(a,[["render",s]]);export{m as default};
