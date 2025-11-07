@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{f as r,g as t,o as n}from"./index-Db0iS38e.js";const a={};function s(c,e){return n(),r("div",null,[...e[0]||(e[0]=[t("p",null,"Page3",-1)])])}const p=o(a,[["render",s]]);export{p as default};
