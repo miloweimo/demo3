@@ -1,1 +1,0 @@
-import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{f as t,g as l,o as n}from"./index-Db0iS38e.js";const r={};function s(a,e){return n(),t("div",null,[...e[0]||(e[0]=[l("span",{class:"text-violet-100 bg-teal-400"},"Hello",-1),l("br",null,null,-1)])])}const i=o(r,[["render",s]]);export{i as default};

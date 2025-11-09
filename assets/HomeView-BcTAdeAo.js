@@ -1,1 +1,0 @@
-import{d as t,f as s,g as e,t as l,h as r,o as i}from"./index-ClrEak76.js";const m=t({__name:"HomeView",setup(p){const o="0.3.5";return(u,n)=>(i(),s("div",null,[n[0]||(n[0]=e("h1",null,"Home",-1)),n[1]||(n[1]=e("h1",null,"I did it!",-1)),n[2]||(n[2]=e("p",null,"Wow!",-1)),e("p",null,"Version: "+l(r(o)),1)]))}});export{m as default};
