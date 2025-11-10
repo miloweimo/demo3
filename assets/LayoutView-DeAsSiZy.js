@@ -1,0 +1,1 @@
+import{_ as o,r as t,c,o as n,a as r}from"./index-BIl99nr9.js";const a={},s={class:"container mx-auto pt-2"};function _(i,m){const e=t("router-view");return n(),c("main",s,[r(e)])}const u=o(a,[["render",_]]);export{u as default};
