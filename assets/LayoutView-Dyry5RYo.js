@@ -1,0 +1,1 @@
+import{_ as o,r as t,c,o as n,a as r}from"./index-CZA0Jsq7.js";const a={},s={class:"container mx-auto"};function _(i,m){const e=t("router-view");return n(),c("main",s,[r(e)])}const f=o(a,[["render",_]]);export{f as default};
