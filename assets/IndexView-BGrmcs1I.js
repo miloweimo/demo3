@@ -1,0 +1,1 @@
+import{_ as o,c as r,a as n,r as t,o as c}from"./index-1Unjk1RZ.js";const s={};function a(_,i){const e=t("router-view");return c(),r("div",null,[n(e)])}const d=o(s,[["render",a]]);export{d as default};

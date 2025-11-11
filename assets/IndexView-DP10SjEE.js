@@ -1,0 +1,1 @@
+import{_ as t,c as r,g as n,a,r as s,o as c}from"./index-1Unjk1RZ.js";const l={};function _(i,e){const o=s("router-view");return c(),r("div",null,[e[0]||(e[0]=n("h1",null,"Teamplate Multipage",-1)),a(o)])}const u=t(l,[["render",_]]);export{u as default};
