@@ -1,0 +1,1 @@
+import{_ as n,c as o,g as t,o as r}from"./index-CXSoo9qD.js";const s={};function c(a,e){return r(),o("div",null,[...e[0]||(e[0]=[t("h1",null,"Dont Add Me",-1)])])}const l=n(s,[["render",c]]);export{l as default};
