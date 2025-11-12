@@ -1,0 +1,1 @@
+import{_ as n,c as t,g as o,o as r}from"./index-CUnAQu3Q.js";const a={};function s(c,e){return r(),t("div",null,[...e[0]||(e[0]=[o("h1",null,"Teamplate",-1)])])}const _=n(a,[["render",s]]);export{_ as default};
