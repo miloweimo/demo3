@@ -1,0 +1,1 @@
+import{_ as r,c as t,g as a,o as n}from"./index-Bs-3ga46.js";const o={};function c(s,e){return n(),t("div",null,[...e[0]||(e[0]=[a("h1",null,"JavaScript",-1)])])}const _=r(o,[["render",c]]);export{_ as default};
