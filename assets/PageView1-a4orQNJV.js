@@ -1,0 +1,1 @@
+import{_ as n,f as o,g as r,o as t}from"./index-Bd8mG1Y2.js";const s={};function a(c,e){return t(),o("div",null,[...e[0]||(e[0]=[r("h1",null,"CSS",-1)])])}const f=n(s,[["render",a]]);export{f as default};

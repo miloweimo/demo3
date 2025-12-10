@@ -1,0 +1,1 @@
+import{_ as r,f as t,g as a,o as n}from"./index-Bd8mG1Y2.js";const o={};function s(c,e){return n(),t("div",null,[...e[0]||(e[0]=[a("h1",null,"JavaScript",-1)])])}const f=r(o,[["render",s]]);export{f as default};
