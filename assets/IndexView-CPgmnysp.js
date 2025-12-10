@@ -1,0 +1,1 @@
+import{_ as n,f as t,g as o,o as r}from"./index-DnctvJdP.js";const a={};function s(c,e){return r(),t("div",null,[...e[0]||(e[0]=[o("h1",null,"Teamplate",-1)])])}const f=n(a,[["render",s]]);export{f as default};

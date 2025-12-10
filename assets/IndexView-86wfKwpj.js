@@ -1,0 +1,1 @@
+import{d as o,f as n,g as s,o as t}from"./index-DnctvJdP.js";const a={class:"p-4"},d=o({name:"DeepClone",__name:"IndexView",setup(r){return(l,e)=>(t(),n("div",a,[...e[0]||(e[0]=[s("h1",{class:"text-2xl font-bold mb-4"},"深拷贝",-1),s("div",{class:"grid grid-cols-[1fr_min(65ch,100%)_1fr] gap-y-4"},null,-1)])]))}});export{d as default};
