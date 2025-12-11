@@ -1,0 +1,1 @@
+import{_ as n,f as o,g as t,o as r}from"./index-Buq0cGZb.js";const s={};function a(c,e){return r(),o("div",null,[...e[0]||(e[0]=[t("h1",null,"Dont Add Me",-1)])])}const l=n(s,[["render",a]]);export{l as default};

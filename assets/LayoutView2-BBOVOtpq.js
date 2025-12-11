@@ -1,0 +1,1 @@
+import{_ as t,f as r,g as s,k as n,r as a,o as c}from"./index-Buq0cGZb.js";const _={},i={class:"p-2"};function l(p,e){const o=a("router-view");return c(),r("main",i,[e[0]||(e[0]=s("p",null,"我是LayoutView2",-1)),n(o)])}const f=t(_,[["render",l]]);export{f as default};
