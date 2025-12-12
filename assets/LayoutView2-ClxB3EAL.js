@@ -1,0 +1,1 @@
+import{_ as o,f as r,i as t,r as n,o as c}from"./index-DGwKKYZr.js";const s={},a={class:"p-8 rounded-xl h-screen"};function _(i,d){const e=n("router-view");return c(),r("main",a,[t(e)])}const l=o(s,[["render",_]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as n,f as o,g as r,o as t}from"./index-DGwKKYZr.js";const a={};function s(c,e){return t(),o("div",null,[...e[0]||(e[0]=[r("p",null,"Page3",-1)])])}const f=n(a,[["render",s]]);export{f as default};
